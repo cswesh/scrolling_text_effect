@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: #3bb78f;
+    background-image: url(one.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+html{
+    height: 1100px;
+    font-weight: 300;
+    color: #fff;
+}
+h1{
+    top: 35px;
+    margin-top: 10px;
+    z-index: 5;
+    width: 100%;
+    text-align: center;
+}
